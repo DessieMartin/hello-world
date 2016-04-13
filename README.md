@@ -41,3 +41,7 @@ _You **can** combine them_
   ![Image of Yaktocat][yaktocat]
 
 [yaktocat]:https://octodex.github.com/images/yaktocat.png
+
+Do I contradict myself?  
+Very well then I contradict myself,    
+(I am large, I contain multitudes.)
